@@ -242,43 +242,43 @@ const app = Vue.createApp({
       // list of portfolio items to loop through it
       allPortfolioItems: [
         {
-          url: '',
+          // url: '',
           imgUrl: '../assets/gallery/_DSC9261_adobespark.jpeg',
           title: { en: 'Sea of Transit'},
           desc: { en: 'Dec 2018'},
           category: { slug: 'html', name: 'HTML' }
         }, {
-          url: '',
+          // url: '',
           imgUrl: '../assets/images/gallery/Copy of DSCF2143_adobespark.jpeg',
           title: { en: 'Stadium'},
           desc: { en: 'Sept 2021'},
           category: { slug: 'angular', name: 'Angular' }
         }, {
-          url: '',
+          // url: '',
           imgUrl: '../assets/images/gallery/DSC_0393_DxO_adobespark.jpeg',
           title: { en: 'Genome'},
           desc: { en: 'Dec 2017'},
           category: { slug: 'vue', name: 'Vue' }
         }, {
-          url: '',
+          // url: '',
           imgUrl: '../assets/images/gallery/DSCF9053_adobespark.jpeg',
           title: { en: 'Trilateral'},
           desc: { en: 'Feb 2020'},
           category: { slug: 'html', name: 'HTML' }
         }, {
-          url: '',
+          // url: '',
           imgUrl: '../assets/images/gallery/DSCF7385.jpg',
           title: { en: 'Summertime Stroll'},
           desc: { en: 'Dec 2019'},
           category: { slug: 'angular', name: 'Angular' }
         }, {
-          url: '',
+          // url: '',
           imgUrl: '../assets/images/gallery/DSC_6228_DxO.jpg',
           title: { en: 'Verdant'},
           desc: { en: 'November 2017' },
           category: { slug: 'vue', name: 'Vue' }
         }, {
-          url: '',
+          // url: '',
           imgUrl: '../assets/images/gallery/DSC_3071.jpg',
           title: { en: 'Cold City'},
           desc: { en: 'June 2020'},
