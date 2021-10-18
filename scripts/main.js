@@ -181,11 +181,20 @@ const app = Vue.createApp({
         }, {
           date: '2021',
           companyName: { en: 'Grapes And Grains' },
-          jobTitle: { en: '' },
+          jobTitle: { en: 'Catered for a ' },
           desc: {
-            en: 'tbd'
+            en: 'Part-Time associate'
           }
-        }, {
+        },
+        {
+          date: '2021',
+          companyName: { en: 'In Development: Featherlight'},
+          jobTitle: { en: 'Personal Project'},
+          desc: {
+            en: 'Create a lightweight 2D/3D game engine to learn more about game development'
+          }
+        },
+        {
           date: '2022',
           companyName: { en: 'Expected Graduation from KSU' },
           jobTitle: { en: 'Computer Science Student' },
@@ -194,14 +203,6 @@ const app = Vue.createApp({
           }
         }
         // {
-        //   date: '2013',
-        //   companyName: { en: 'Envato Inc.', ar: 'شركة انفاتو' },
-        //   jobTitle: { en: 'UI/UX Developer', ar: 'مطور UI/UX' },
-        //   desc: {
-        //     en: 'Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript.',
-        //     ar: 'تم تحويل تخطيطات Photoshop إلى صفحات ويب باستخدام HTML و CSS و JavaScript.'
-        //   }
-        // }, {
         //   date: '2015',
         //   companyName: { en: 'Google Inc.', ar: 'شركة جوجل' },
         //   jobTitle: { en: 'Front-End Developer', ar: 'مطور الواجهة الأمامية' },
