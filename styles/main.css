@@ -5181,6 +5181,14 @@ html[dir="rtl"] .contact-section .section-content .contact-form .phone-number .f
   animation: cycle 4s infinite; /* IE 10+, Fx 29+ */
 }
 
+/* cycling2 css*/
+#cycle2:after {
+  -webkit-animation: cycle 4s infinite; /* Safari 4+ */
+  -moz-animation: cycle 4s infinite; /* Fx 5+ */
+  -o-animation: cycle 4s infinite; /* Opera 12+ */
+  animation: cycle 4s infinite; /* IE 10+, Fx 29+ */
+}
+
 @keyframes cycle {
 0% {
   content: "Student";
@@ -5194,4 +5202,20 @@ html[dir="rtl"] .contact-section .section-content .contact-form .phone-number .f
 100% {
   content: "Watch Lover";
 }
+}
+
+
+@keyframes cycle2 {
+  0% {
+    content: "Student";
+  }
+  33% {
+    content: "Software Engineer";
+  }
+  66% {
+    content: "Web Developer";
+  }
+  100% {
+    content: "Watch Lover";
+  }
 }
