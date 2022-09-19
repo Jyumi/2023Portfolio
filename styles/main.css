@@ -5195,3 +5195,19 @@ html[dir="rtl"] .contact-section .section-content .contact-form .phone-number .f
   content: "Watch Lover";
 }
 }
+
+
+@keyframes cycle2 {
+  0% {
+    content: "Student";
+  }
+  33% {
+    content: "Software Engineer";
+  }
+  66% {
+    content: "Web Developer";
+  }
+  100% {
+    content: "Watch Lover";
+  }
+}
