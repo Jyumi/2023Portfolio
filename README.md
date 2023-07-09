@@ -14,7 +14,7 @@ My updated Full-stack Development and Software Engineering Portfolio (2023)
 </p>
 
 <p align="center">
-  <a href="https://app.netlify.com/sites/justinklu//deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/justinklu/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/d2b2c79c-2b56-42f7-b7ec-1c58e72c11fc/deploy-status)](https://app.netlify.com/sites/justinklu/deploys" alt="Netlify Status" />
   </a>
 </p>
