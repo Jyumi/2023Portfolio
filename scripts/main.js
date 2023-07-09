@@ -196,45 +196,20 @@ const app = Vue.createApp({
         },
         {
           date: '2022',
-          companyName: { en: 'Expected Graduation from KSU' },
-          jobTitle: { en: 'Computer Science Student' },
+          companyName: { en: 'Insight Global' },
+          jobTitle: { en: 'Service Desk Technician' },
+          desc: {
+            en: ''
+          }
+        },
+        {
+          date: '2023',
+          companyName: { en: 'Insight Global' },
+          jobTitle: { en: 'Application Support Specialist' },
           desc: {
             en: ''
           }
         }
-        // {
-        //   date: '2015',
-        //   companyName: { en: 'Google Inc.', ar: 'شركة جوجل' },
-        //   jobTitle: { en: 'Front-End Developer', ar: 'مطور الواجهة الأمامية' },
-        //   desc: {
-        //     en: 'Monitored technical aspects of the front-end delivery for projects.',
-        //     ar: 'مراقبة الجوانب الفنية لتطوير الواجهات الأمامية للمشاريع.'
-        //   }
-        // }, {
-        //   date: '2017',
-        //   companyName: { en: 'Facebook Inc.', ar: 'شركة فيسبوك' },
-        //   jobTitle: { en: 'Full Stack Developer', ar: 'مطوّر الويب المتكامل' },
-        //   desc: {
-        //     en: 'Collaborate with creative and development teams on the execution of ideas.',
-        //     ar: 'تعاونت مع الفرق الإبداعية في تطوير وتنفيذ أفكار مبتكرة.'
-        //   }
-        // }, {
-        //   date: '2019',
-        //   companyName: { en: 'Google Inc.', ar: 'شركة جوجل' },
-        //   jobTitle: { en: 'Front-End Developer', ar: 'مطور الواجهة الأمامية' },
-        //   desc: {
-        //     en: 'Monitored technical aspects of the front-end delivery for projects.',
-        //     ar: 'مراقبة الجوانب الفنية لتطوير الواجهات الأمامية للمشاريع.'
-        //   }
-        // }, {
-        //   date: '2021',
-        //   companyName: { en: 'Facebook Inc.', ar: 'شركة فيسبوك' },
-        //   jobTitle: { en: 'Full Stack Developer', ar: 'مطوّر الويب المتكامل' },
-        //   desc: {
-        //     en: 'Collaborate with creative and development teams on the execution of ideas.',
-        //     ar: 'تعاونت مع الفرق الإبداعية في تطوير وتنفيذ أفكار مبتكرة.'
-        //   }
-        // }, {}, {}
       ],
 
       // filter type for items in portfolio section
