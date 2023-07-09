@@ -1,7 +1,7 @@
 My updated Full-stack Development and Software Engineering Portfolio (2023)
 
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <!-- <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" /> -->
 </div>
 <h1 align="center">
   Personal Portfolio
@@ -15,6 +15,6 @@ My updated Full-stack Development and Software Engineering Portfolio (2023)
 
 <p align="center">
   <a href="https://app.netlify.com/sites/justinklu/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/d2b2c79c-2b56-42f7-b7ec-1c58e72c11fc/deploy-status)](https://app.netlify.com/sites/justinklu/deploys" alt="Netlify Status" />
+    <img src="https://api.netlify.com/api/v1/badges/d2b2c79c-2b56-42f7-b7ec-1c58e72c11fc/deploy-status" alt="Netlify Status" />
   </a>
 </p>
