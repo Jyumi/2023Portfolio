@@ -158,6 +158,30 @@ const app = Vue.createApp({
       // list of experience items to loop through it
       experienceItems: [
         {
+          date: '20XX',
+          companyName: { en: 'Georgia State University Perimeter College' },
+          jobTitle: { en: 'Bachelor of Business' },
+          desc: {
+            en: 'Business Analytics'
+          }
+        },
+        {
+          date: '20XX',
+          companyName: { en: 'Georgia State University' },
+          jobTitle: { en: 'Bachelor of Business Administration' },
+          desc: {
+            en: 'Accounting'
+          }
+        },
+        {
+          date: '20XX',
+          companyName: { en: 'D & D Financial' },
+          jobTitle: { en: 'Internship' },
+          desc: {
+            en: 'Accounting Intern'
+          }
+        },
+        {
           date: '2018',
           companyName: { en: 'Hack Reactor' },
           jobTitle: { en: 'Student' },
@@ -181,7 +205,7 @@ const app = Vue.createApp({
         }, {
           date: '2021',
           companyName: { en: 'Grapes And Grains' },
-          jobTitle: { en: 'Catered for a ' },
+          jobTitle: { en: 'Sales Associate' },
           desc: {
             en: 'Part-Time associate'
           }
@@ -203,7 +227,7 @@ const app = Vue.createApp({
           }
         },
         {
-          date: '2023',
+          date: '2022',
           companyName: { en: 'Insight Global' },
           jobTitle: { en: 'Application Support Specialist' },
           desc: {
