@@ -387,64 +387,7 @@
       </div>
       <!-- end of experience section -->
 
-      <!-- start of portfolio section -->
-      <div id="portfolio" class="portfolio-section section" tabindex="-1">
-        <div class="container">
-          <div class="section-content">
-
-            <!-- portfolio items -->
-            <ul class="portfolio-items" ref="portfolioItems" data-no-more-works-msg="No more works to load">
-              <li>
-                <!-- text box -->
-                <div class="text-box">
-                  <span class="subtitle">my works</span>
-                  <h2>
-                    Some of my work in photography
-                    <br>
-                    Contact me for work!
-                  </h2>
-                  <p>
-                    Over the years, I've captured images from all the places I've been and the things I've experienced.
-                    <br>
-                  <div class="btns-container">
-                    <a href="https://instagram.com/just_jlu/" class="btn btn-primary">Instagram</a>
-                    <a href="https://justjlu.pixieset.com/" class="btn btn-outline-light">Pixieset</a>
-                  </div>
-                  </p>
-                  <!-- <ul class="works-filter">
-                      <li v-for="filter in ['All', 'HTML', 'Angular', 'Vue']" :key="filter">
-                        <button :class="{'active': worksFilter === filter.toLowerCase()}"
-                          @click="worksFilter = filter.toLowerCase()">
-                          {{ filter }}
-                        </button>
-                      </li>
-                    </ul> -->
-                </div>
-              </li>
-
-              <!-- start items list -->
-              <li class="portfolio-item" v-for="work in portfolioItems" :key="work.title.en"
-                v-show="worksFilter === 'all' || worksFilter === work.category.slug">
-                <a :href="work.url" target="_blank" rel="noopener">
-                  <div class="item-img">
-                    <img :src="work.imgUrl" :alt="work.title.en">
-                  </div>
-                  <div class="item-details">
-                    <h3 class="title">{{ work.title.en }}</h3>
-                    <div class="desc">{{ work.desc.en }}</div>
-                  </div>
-                </a>
-              </li>
-              <!-- end items list -->
-
-              <li>
-                <button class="more" @click="getPortfolioItems">Load more works</button>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- end of portfolio section -->
+      <!-- Original Portfolio Section Placeholder -->
 
       <!-- start of Blog section -->
       <div id="testimonials" class="testimonials-section section" tabindex="-1">
