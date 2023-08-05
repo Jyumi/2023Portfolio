@@ -7,6 +7,8 @@
 </h1>
 <p align="center">
   My updated Full-stack Development and Software Engineering Portfolio (2023) 
+</p>
+<p align="center">
   <a href="https://justinklu.com" target="_blank">justinklu.com</a> 
   built with 
   <a href="https://vuejs.org/" target="_blank">Vue.Js</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
