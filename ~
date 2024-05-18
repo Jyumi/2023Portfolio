@@ -1,0 +1,102 @@
+testing revised first site upload
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	deleted:    LICENSE
+#	deleted:    README.md
+#	new file:   assets/.DS_Store
+#	new file:   assets/JustinLu2023Resume.pdf
+#	new file:   assets/favicon-dark-mode.ico
+#	modified:   assets/favicon.ico
+#	deleted:    assets/fonts/FontAwesome.otf
+#	deleted:    assets/fonts/fontawesome-webfont.eot
+#	deleted:    assets/fonts/fontawesome-webfont.svg
+#	deleted:    assets/fonts/fontawesome-webfont.ttf
+#	deleted:    assets/fonts/fontawesome-webfont.woff
+#	deleted:    assets/fonts/fontawesome-webfont.woff2
+#	deleted:    assets/gallery/Copy of DSCF2143_adobespark.jpeg
+#	deleted:    assets/gallery/DSCF7385.jpg
+#	deleted:    assets/gallery/DSCF9053_adobespark.jpeg
+#	deleted:    assets/gallery/DSC_0393_DxO_adobespark.jpeg
+#	deleted:    assets/gallery/DSC_3071.jpg
+#	deleted:    assets/gallery/DSC_6228_DxO.jpg
+#	deleted:    assets/gallery/_DSC9261_adobespark.jpeg
+#	new file:   assets/images/.DS_Store
+#	new file:   assets/images/avatartion.svg
+#	deleted:    assets/images/gallery/Copy of DSCF2143_adobespark.jpeg
+#	deleted:    assets/images/gallery/DSCF7385.jpg
+#	deleted:    assets/images/gallery/DSCF9053_adobespark.jpeg
+#	deleted:    assets/images/gallery/DSC_0393_DxO_adobespark.jpeg
+#	deleted:    assets/images/gallery/DSC_3071.jpg
+#	deleted:    assets/images/gallery/DSC_6228_DxO.jpg
+#	deleted:    assets/images/gallery/_DSC9261_adobespark.jpeg
+#	deleted:    assets/images/icons/address.png
+#	deleted:    assets/images/icons/check-mark.png
+#	deleted:    assets/images/icons/email.png
+#	deleted:    assets/images/icons/emblem.png
+#	deleted:    assets/images/icons/happy.png
+#	deleted:    assets/images/icons/phone.png
+#	deleted:    assets/images/langs/ar.png
+#	deleted:    assets/images/langs/en.png
+#	deleted:    assets/images/portfolio/portfolio-1.png
+#	deleted:    assets/images/portfolio/portfolio-2.png
+#	deleted:    assets/images/portfolio/portfolio-3.png
+#	deleted:    assets/images/portfolio/portfolio-4.png
+#	deleted:    assets/images/portfolio/portfolio-5.png
+#	deleted:    assets/images/portfolio/portfolio-6.png
+#	deleted:    assets/images/portfolio/portfolio-7.png
+#	new file:   assets/images/preloader-logo.svg
+#	deleted:    assets/images/skills/adobe-xd.png
+#	deleted:    assets/images/skills/ajax.png
+#	deleted:    assets/images/skills/angular.png
+#	deleted:    assets/images/skills/bootstrap.png
+#	deleted:    assets/images/skills/clickup.png
+#	deleted:    assets/images/skills/command.png
+#	deleted:    assets/images/skills/css3.png
+#	deleted:    assets/images/skills/firebase.png
+#	deleted:    assets/images/skills/git.png
+#	deleted:    assets/images/skills/gulp.png
+#	deleted:    assets/images/skills/html5.png
+#	deleted:    assets/images/skills/javascript.png
+#	deleted:    assets/images/skills/jquery.png
+#	deleted:    assets/images/skills/npm.png
+#	deleted:    assets/images/skills/photoshop.png
+#	deleted:    assets/images/skills/pugjs.png
+#	deleted:    assets/images/skills/react.png
+#	deleted:    assets/images/skills/sass.png
+#	deleted:    assets/images/skills/slack.png
+#	deleted:    assets/images/skills/trello.png
+#	deleted:    assets/images/skills/typescript.png
+#	deleted:    assets/images/skills/vs-code.png
+#	deleted:    assets/images/skills/vue.png
+#	deleted:    assets/images/skills/webpack.png
+#	modified:   assets/images/splash.png
+#	deleted:    assets/j_2013.ico
+#	deleted:    assets/pdf/JustinLuResume2021.pdf
+#	new file:   assets/webfonts/fa-brands-400.ttf
+#	new file:   assets/webfonts/fa-brands-400.woff2
+#	new file:   assets/webfonts/fa-regular-400.ttf
+#	new file:   assets/webfonts/fa-regular-400.woff2
+#	new file:   assets/webfonts/fa-solid-900.ttf
+#	new file:   assets/webfonts/fa-solid-900.woff2
+#	new file:   assets/webfonts/fa-v4compatibility.ttf
+#	new file:   assets/webfonts/fa-v4compatibility.woff2
+#	modified:   contact_form.php
+#	new file:   error.html
+#	modified:   index.html
+#	deleted:    old-portfolio-index.html
+#	new file:   portfolio-archive.html
+#	new file:   portfolio-single.html
+#	new file:   scripts/bundle.min.js
+#	new file:   scripts/bundle.min.js.map
+#	deleted:    scripts/main.js
+#	modified:   scripts/plugins.min.js
+#	modified:   styles/libraries.min.css
+#	modified:   styles/main.css
+#	new file:   styles/main.min.css
+#
