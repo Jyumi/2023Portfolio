@@ -34,25 +34,29 @@ Welcome to my updated portfolio for 2024! This is a regularly managed website cr
 ##### Installation
 
 ##### Project Structure 
+> readme.md
+> error.html
+> index.html
+> contact_form.php
+> ##### styles
+> - main.min.css
+> - main.css
+> - libraries.min.css
+> ##### scripts
+> - plugins.min.js
+> - bundle.min.js
+> - bundle.min.js
+> ##### assets
+> - images
+> - webfonts
+> - resume
+> ##### .idea
+> - .gitnore
+> - 
 
-java
-Copy code
-portfolio-website/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── styles/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
+
+
+
 public/: Contains static files and the main HTML template.
 src/: Contains the source code.
 assets/: Images, fonts, and other static assets.
@@ -61,6 +65,7 @@ pages/: Page components corresponding to different routes.
 styles/: Global and component-specific styles.
 App.js: Main application component.
 index.js: Entry point for the application.
+
 Features
 Responsive Design: The website is fully responsive and looks great on all devices.
 Interactive UI: Smooth navigation and interactive elements for a better user experience.
